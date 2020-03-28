@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7425655D-22D3-4FE9-90DF-CB74D5295A3D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D317FBFD-A2B6-4C5D-ABA7-E2E5FFF62849"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talabat/controllers/GetOrderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "mapView(_:viewFor:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64E95285-8FCC-4904-9E8B-AF19A92E95FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talabat/controllers/GetOrderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "showListView(locationX:locationY:annotationView:latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talabat/controllers/AnnotationInfoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AnnotationInfoViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C - 337f8a3459242669"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talabat.AnnotationInfoViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Talabat.AnnotationInfoViewController"
+                  moduleName = "Talabat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mora/Desktop/internship/Talabat/Talabat/controllers/AnnotationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C - 6d56309af9c46886"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talabat.AnnotationInfoViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Talabat.AnnotationInfoViewController"
+                  moduleName = "Talabat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mora/Desktop/internship/Talabat/Talabat/controllers/AnnotationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "359">
+               </Location>
+               <Location
+                  uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C - b0995497dd1da13c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talabat.AnnotationInfoViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Talabat.AnnotationInfoViewController&gt;"
+                  moduleName = "Talabat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mora/Desktop/internship/Talabat/Talabat/controllers/AnnotationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C - 82efda9be24dc8fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talabat.AnnotationInfoViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Talabat.AnnotationInfoViewController&gt;"
+                  moduleName = "Talabat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mora/Desktop/internship/Talabat/Talabat/controllers/AnnotationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "1DB7843B-2257-4B2E-90B3-7B8903EC422C - cdae4438af144deb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talabat.AnnotationInfoViewController.__deallocating_deinit"
+                  moduleName = "Talabat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mora/Desktop/internship/Talabat/Talabat/controllers/AnnotationInfoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E04E51F-E0E7-4CBB-89C4-154EFB49A1DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talabat/controllers/GetOrderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "showListView(locationX:locationY:annotationView:latitude:longitude:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
